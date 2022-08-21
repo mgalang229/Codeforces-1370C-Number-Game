@@ -30,7 +30,6 @@ n = 12
 3 / 3 = 1
 first player wins
 
-i think this is dynamic programming, we can build our answer up to n
 in a normal game, avoid turning it into 2
 
 only powers of 2 have no odd divisors
